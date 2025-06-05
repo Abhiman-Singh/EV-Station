@@ -9,8 +9,8 @@
 - `/frontend` – Frontend UI code
 
 ## 🚀 Live Demo
-- Frontend: [https://your-vercel-app.vercel.app](#)
-- Backend: [https://your-render-app.onrender.com](#)
+- Frontend: [https://ev-station-nu.vercel.app/](#)
+- Backend: [https://ev-station-3whi.onrender.com](#)
 
 ## 📦 Getting Started
 
