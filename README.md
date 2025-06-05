@@ -12,6 +12,14 @@
 - Frontend: https://ev-station-nu.vercel.app/
 - Backend: https://ev-station-3whi.onrender.com
 
+## 🔐 Sample Test Credentials
+
+- Use these to log in after signup or directly for testing protected routes:
+
+- ```bash
+  Username: testuser
+  Password: password123
+
 ## 📦 Getting Started
 
 # Backend
@@ -24,14 +32,25 @@
     npm install
     npm run dev
 ## 📝 Features
-### JWT auth
--CRUD for chargers
+### 👤 Authentication (JWT)
 
-Map View using OpenStreetMap
+- User Signup & Login
+- Protected API routes for managing chargers
 
-yaml
-Copy
-Edit
+### ⚡ Charging Station Management
+
+- Add new station
+- View all stations
+- Edit or Delete station
+- Filters: Status, Power Output, Connector Type
+
+### 🗺️ Map View
+- Integrated OpenStreetMap
+- Displays charger location via markers
+- Clickable markers to view details
+
+
+
 
 ---
 
