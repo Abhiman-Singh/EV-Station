@@ -14,23 +14,18 @@
 
 ## 📦 Getting Started
 
-## Backend
-```bash
-cd backend
-npm install
-npm start
+# Backend
+    cd backend
+    npm install
+    npm start
 
-## Frontend
-```bash
-Copy
-Edit
-cd frontend
-npm install
-npm run dev
-📝 Features
-JWT auth
-
-CRUD for chargers
+# Frontend
+    cd frontend
+    npm install
+    npm run dev
+## 📝 Features
+### JWT auth
+-CRUD for chargers
 
 Map View using OpenStreetMap
 
