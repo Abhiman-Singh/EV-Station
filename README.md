@@ -1,8 +1,9 @@
 # EV Charging Station Full-Stack App
 
 ## 🔧 Tech Stack
-- Backend: Node.js, Express, MongoDB, JWT Auth
-- Frontend: Vue.js, Axios, OpenStreetMap
+- **Backend:** Node.js, Express, MongoDB, JWT Authentication
+- **Frontend:** Vue.js, Axios, OpenStreetMap
+- **Deployment:** Vercel (Frontend), Render (Backend)
 
 ## 🗂 Folder Structure
 - `/backend` – Backend API code
@@ -48,6 +49,19 @@
 - Integrated OpenStreetMap
 - Displays charger location via markers
 - Clickable markers to view details
+
+
+## 📦 Backend Setup (/backend)
+    cd backend
+    npm install
+## Create a .env file
+    ```env
+    PORT=5000
+    MONGO_URI=your_mongo_connection_string
+    JWT_SECRET=your_jwt_secret_key
+
+ ## ▶️ Run the backend
+     npm start
 
 
 
