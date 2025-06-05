@@ -21,17 +21,7 @@
   Username: testuser
   Password: password123
 
-## 📦 Getting Started
 
-# Backend
-    cd backend
-    npm install
-    npm start
-
-# Frontend
-    cd frontend
-    npm install
-    npm run dev
 ## 📝 Features
 ### 👤 Authentication (JWT)
 
